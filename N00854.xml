@@ -119,8 +119,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:001030_0000_0FAEEEB2A447C3F8"/>
-            <pb facs="tcp:001030_0001_0FAEEEB3583DEAD8"/>
+            <pb facs="unknown:001030_0000_0FAEEEB2A447C3F8"/>
+            <pb facs="unknown:001030_0001_0FAEEEB3583DEAD8"/>
             <p>The DAY of DOOM: OR, A Poetical Deſcription OF The GREAT and LAST <hi>Judgement.</hi> WITH A <hi>Short DISCOURSE</hi> about <hi>Eternity.</hi>
             </p>
             <p>By <hi>Michael Wiggleſworth,</hi> Teacher of the Church at <hi>Maldon</hi> in <hi>N. E.</hi>
@@ -139,7 +139,7 @@
                <hi>BOSTON:</hi> Printed by <hi>B. Green,</hi> and <hi>J Allen,</hi> for <hi>Benjamin Eliot,</hi> at his Shop under the Weſt End of the Town-Houſe. 1701.</p>
          </div>
          <div type="to_the_reader">
-            <pb facs="tcp:001030_0002_0FAEEEB4E134DEA8"/>
+            <pb facs="unknown:001030_0002_0FAEEEB4E134DEA8"/>
             <head>To the Chriſtian Reader.</head>
             <lg>
                <l>REader, I am a fool,</l>
@@ -165,7 +165,7 @@
                <l>No ſorrow like to this.</l>
             </lg>
             <lg>
-               <pb facs="tcp:001030_0003_0FAEEEB59C69BE20"/>
+               <pb facs="unknown:001030_0003_0FAEEEB59C69BE20"/>
                <l>This is the ſoreſt pain</l>
                <l>That I have felt or feel:</l>
                <l>Yet have I ſtood ſome ſhocks that might</l>
@@ -220,7 +220,7 @@
                      <desc>•</desc>
                   </gap>als ſeen,</l>
                <l>
-                  <pb facs="tcp:001030_0004_0FAEEEB697305EF0"/>Can tell the time in ſeven years,</l>
+                  <pb facs="unknown:001030_0004_0FAEEEB697305EF0"/>Can tell the time in ſeven years,</l>
                <l>When I have dumpiſh been?</l>
                <l>Some think my voice is ſtrong,</l>
                <l>Moſt times when I do Preach:</l>
@@ -255,7 +255,7 @@
                <l>In God I have been ſtrong,</l>
                <l>When wearied and worn out;</l>
                <l>
-                  <pb facs="tcp:001030_0005_0FAEEEB9FABEDD38"/>And joy'd in him, when twenty woes</l>
+                  <pb facs="unknown:001030_0005_0FAEEEB9FABEDD38"/>And joy'd in him, when twenty woes</l>
                <l>Aſſail'd me round about.</l>
             </lg>
             <lg>
@@ -290,7 +290,7 @@
                <l>Advantage with my Pen.</l>
             </lg>
             <lg>
-               <pb facs="tcp:001030_0006_0FAEEEBB257FA7B8"/>
+               <pb facs="unknown:001030_0006_0FAEEEBB257FA7B8"/>
                <l>I would, But <hi>(ah!)</hi> my ſtrength,</l>
                <l>When tried, proves ſo ſmall,</l>
                <l>That to the ground without effect,</l>
@@ -324,7 +324,7 @@
                <l>Oh get a part in Chriſt,</l>
                <l>And make the Judge thy Friend:</l>
                <l>
-                  <pb facs="tcp:001030_0007_0FAEEEBBCB2E3A78"/>So ſhalt thou be aſſured of</l>
+                  <pb facs="unknown:001030_0007_0FAEEEBBCB2E3A78"/>So ſhalt thou be aſſured of</l>
                <l>A happy, glorious end.</l>
                <l>Thus prayes thy real Friend,</l>
                <l>And Servant for Chriſt's ſake,</l>
@@ -336,7 +336,7 @@
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:001030_0008_0FAEEEBE1B2003F8"/>
+            <pb facs="unknown:001030_0008_0FAEEEBE1B2003F8"/>
             <head>On the following Work, AND It's AUTHOR.</head>
             <lg>
                <l>A Verſe may find him who a Sermon flies,</l>
@@ -374,7 +374,7 @@
                <l>Thence painful leiſure hath to write the more,</l>
                <l>And ſends thee Counſels from the mouth o'th' Grave.</l>
                <l>
-                  <pb facs="tcp:001030_0009_0FAEEEBE9553A3F8"/>One foot i'th' other World long time hath been:</l>
+                  <pb facs="unknown:001030_0009_0FAEEEBE9553A3F8"/>One foot i'th' other World long time hath been:</l>
                <l>Read, and thou'lt ſay, His heart is all therein.</l>
             </lg>
             <lg>
@@ -425,7 +425,7 @@
             </closer>
          </div>
          <div type="prayer">
-            <pb facs="tcp:001030_0010_0FAEEEBF54C51BB0"/>
+            <pb facs="unknown:001030_0010_0FAEEEBF54C51BB0"/>
             <head>A PRAYER Unto Chriſt the Judge OF THE WORLD.</head>
             <l>O Dearest Dread, moſt glorious King,</l>
             <l>I'le of thy juſteſt Judgments ſing:</l>
@@ -449,7 +449,7 @@
             </l>
             <l>Rule Earth below, and Heaven above.</l>
             <l>
-               <pb facs="tcp:001030_0011_0FAEEEC039D7ADA0"/>But I have learnt to pray to none,</l>
+               <pb facs="unknown:001030_0011_0FAEEEC039D7ADA0"/>But I have learnt to pray to none,</l>
             <l>Save unto God in Christ alone.</l>
             <l>Nor will I laud, no not in jeſt,</l>
             <l>That which I know God doth deteſt.</l>
@@ -465,7 +465,7 @@
       </front>
       <body>
          <div type="poem">
-            <pb n="1" facs="tcp:001030_0012_0FAEEEC0D629FEF8"/>
+            <pb n="1" facs="unknown:001030_0012_0FAEEEC0D629FEF8"/>
             <head>THE DAY OF DOOM.</head>
             <lg n="1">
                <head>(1)</head>
@@ -510,7 +510,7 @@
                <l>in a tempeſtuous ſhowre.</l>
             </lg>
             <lg n="4">
-               <pb n="2" facs="tcp:001030_0013_0FAEEEC5C1E440C0"/>
+               <pb n="2" facs="unknown:001030_0013_0FAEEEC5C1E440C0"/>
                <head>(4)</head>
                <l>They put away the evil day,</l>
                <l>And drown'd their care and fears,</l>
@@ -573,7 +573,7 @@
                <l>they quit their wonted ſteads.</l>
             </lg>
             <lg n="8">
-               <pb n="3" facs="tcp:001030_0014_0FAEEEC7EE146AD0"/>
+               <pb n="3" facs="unknown:001030_0014_0FAEEEC7EE146AD0"/>
                <head>(8)</head>
                <l>Ye ſons of men that durſt contemn</l>
                <l>the Threatnings of Gods Word.</l>
@@ -622,7 +622,7 @@
                <l>yet knows not how to kill.</l>
             </lg>
             <lg n="12">
-               <pb n="4" facs="tcp:001030_0015_0FAEEEC8F6FDE180"/>
+               <pb n="4" facs="unknown:001030_0015_0FAEEEC8F6FDE180"/>
                <head>(12)</head>
                <l>
                   <note place="margin">
@@ -678,7 +678,7 @@
                <l>ſo ſoon as he draws near.</l>
             </lg>
             <lg n="16">
-               <pb n="5" facs="tcp:001030_0016_0FAEEEC92A10C0C8"/>
+               <pb n="5" facs="unknown:001030_0016_0FAEEEC92A10C0C8"/>
                <head>(16)</head>
                <l>Whoſe Glory bright, whoſe wondrous might</l>
                <l>whoſe Power Imperial,</l>
@@ -730,7 +730,7 @@
                <l>are made to dy no more.</l>
             </lg>
             <lg n="20">
-               <pb n="6" facs="tcp:001030_0017_0FAEEEC9D48CC9B8"/>
+               <pb n="6" facs="unknown:001030_0017_0FAEEEC9D48CC9B8"/>
                <head>(20)</head>
                <l>
                   <note place="margin">all brought to Judg<g ref="char:EOLhyphen"/>ment. Mat <hi>24.31.</hi>
@@ -786,7 +786,7 @@
                <l>when they were chaſt'ned ſore.</l>
             </lg>
             <lg n="24">
-               <pb n="7" facs="tcp:001030_0018_0FAEEECAF3167DC0"/>
+               <pb n="7" facs="unknown:001030_0018_0FAEEECAF3167DC0"/>
                <head>(24)</head>
                <l>Moreover, ſuch as loved much,<note place="margin">
                      <hi>Luk<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -845,7 +845,7 @@
                <l>but now muſt not come near.</l>
             </lg>
             <lg n="28">
-               <pb n="8" facs="tcp:001030_0019_0FAEEECB59D4E658"/>
+               <pb n="8" facs="unknown:001030_0019_0FAEEECB59D4E658"/>
                <head>(28)</head>
                <l>
                   <note place="margin">
@@ -900,7 +900,7 @@
                <l>all ſtand amongſt this Crowd.</l>
             </lg>
             <lg n="32">
-               <pb n="9" facs="tcp:001030_0020_0FAEEECFF6EC0348"/>
+               <pb n="9" facs="unknown:001030_0020_0FAEEECFF6EC0348"/>
                <head>(32)</head>
                <l>Adult<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -955,7 +955,7 @@
                <l>through ſelf-tormenting fear.</l>
             </lg>
             <lg n="36">
-               <pb n="10" facs="tcp:001030_0021_0FAEEED1E0BC5730"/>
+               <pb n="10" facs="unknown:001030_0021_0FAEEED1E0BC5730"/>
                <head>(36)</head>
                <l>Faſt by them ſtand at Chriſt's left hand</l>
                <l>the Lion fierce and fell,</l>
@@ -1025,7 +1025,7 @@
             </lg>
             <lg n="40">
                <pb n="11"
-                   facs="tcp:001030_0022_0FAEEED2F59C0B78"
+                   facs="unknown:001030_0022_0FAEEED2F59C0B78"
                    rendition="simple:additions"/>
                <head>(40)</head>
                <l>Theſe Men be thoſe my Father choſe</l>
@@ -1079,7 +1079,7 @@
                <l>redeeming whom he will.</l>
             </lg>
             <lg n="44">
-               <pb n="12" facs="tcp:001030_0023_0FAEEED39A7F5B10"/>
+               <pb n="12" facs="unknown:001030_0023_0FAEEED39A7F5B10"/>
                <head>(44)</head>
                <l>But as for thoſe whom I have choſe</l>
                <l>
@@ -1137,7 +1137,7 @@
                <l>to Death or to Damnation.</l>
             </lg>
             <lg n="48">
-               <pb n="13" facs="tcp:001030_0024_0FAEEED464797A88"/>
+               <pb n="13" facs="unknown:001030_0024_0FAEEED464797A88"/>
                <head>(48)</head>
                <l>Come, Bleſſed Ones, and ſit on Thrones,<note place="margin">
                      <hi>Luk.</hi> 22.29, 30. <hi>Mat.</hi> 19.28.</note>
@@ -1191,7 +1191,7 @@
                <l>as there to be reſpected.</l>
             </lg>
             <lg n="52">
-               <pb n="14" facs="tcp:001030_0025_0FAEEED519540A10"/>
+               <pb n="14" facs="unknown:001030_0025_0FAEEED519540A10"/>
                <head>(52)</head>
                <l>
                   <note place="margin">
@@ -1242,7 +1242,7 @@
                <l>when as it them accuſed,</l>
             </lg>
             <lg n="56">
-               <pb n="15" facs="tcp:001030_0026_0FAEEED5DF5B63B8"/>
+               <pb n="15" facs="unknown:001030_0026_0FAEEED5DF5B63B8"/>
                <head>(56)</head>
                <l>Now it comes in, and every ſin</l>
                <l>unto M<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1303,7 +1303,7 @@
                <l>it muſt receive a doom.</l>
             </lg>
             <lg n="60">
-               <pb n="16" facs="tcp:001030_0027_0FAEEEDDAC80D280"/>
+               <pb n="16" facs="unknown:001030_0027_0FAEEEDDAC80D280"/>
                <head>(60)</head>
                <l>
                   <note place="margin">An ac<g ref="char:EOLhyphen"/>count de<g ref="char:EOLhyphen"/>manded of all their actions. <hi>Joh. 5.40</hi> &amp; <hi>3 19.</hi> Mat <hi>25.19, 27.</hi>
@@ -1357,7 +1357,7 @@
                <l>and all Chriſt's Royal ſtore.</l>
             </lg>
             <lg n="64">
-               <pb n="17" facs="tcp:001030_0028_0FAEEEDEDC06E958"/>
+               <pb n="17" facs="unknown:001030_0028_0FAEEEDEDC06E958"/>
                <head>(64)</head>
                <l>Why,<note place="margin">
                      <hi>Luk.</hi> 13.34. J<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1425,7 +1425,7 @@
                <l>of all this curſed race.</l>
             </lg>
             <lg n="68">
-               <pb n="18" facs="tcp:001030_0029_0FAEEEDF978A65D0"/>
+               <pb n="18" facs="unknown:001030_0029_0FAEEEDF978A65D0"/>
                <head>(68)</head>
                <l>Nevertheleſs, they all expreſs,</l>
                <l>Chriſt granting liberty,</l>
@@ -1493,7 +1493,7 @@
                <l>your ſelves were held more faſt?</l>
             </lg>
             <lg n="72">
-               <pb n="19" facs="tcp:001030_0030_0FAEEEE0645193B0"/>
+               <pb n="19" facs="unknown:001030_0030_0FAEEEE0645193B0"/>
                <head>(72)</head>
                <l>Who though you knew Repentance true,<note place="margin">Joh 9 41</note>
                </l>
@@ -1556,7 +1556,7 @@
                <l>and utterly forſaken?</l>
             </lg>
             <lg n="76">
-               <pb n="20" facs="tcp:001030_0031_0FAEEEE28D894178"/>
+               <pb n="20" facs="unknown:001030_0031_0FAEEEE28D894178"/>
                <head>(76)</head>
                <l>
                   <note place="margin">
@@ -1618,7 +1618,7 @@
                <l>to laſting happineſs?</l>
             </lg>
             <lg n="80">
-               <pb n="21" facs="tcp:001030_0032_0FAEEEE2B24DF5D0"/>
+               <pb n="21" facs="unknown:001030_0032_0FAEEEE2B24DF5D0"/>
                <head>(80)</head>
                <l>This your excuſe ſhews your abuſe</l>
                <l>of things ordain'd for good;<note place="margin">1 <hi>Cor</hi> 11.27, 29.</note>
@@ -1671,7 +1671,7 @@
                </l>
             </lg>
             <lg n="84">
-               <pb n="22" facs="tcp:001030_0033_0FAEEEE3CF944800"/>
+               <pb n="22" facs="unknown:001030_0033_0FAEEEE3CF944800"/>
                <head>(84)</head>
                <l>
                   <note place="margin">The Judge uncaſeth them.</note>The Judge incenſed at their pretenced</l>
@@ -1735,7 +1735,7 @@
                <l>your own Deceits retain.</l>
             </lg>
             <lg n="88">
-               <pb n="23" facs="tcp:001030_0034_0FAEEEE41BB00B10"/>
+               <pb n="23" facs="unknown:001030_0034_0FAEEEE41BB00B10"/>
                <head>(88)</head>
                <l>As for your care to get a ſhare</l>
                <l>in bliſs; the fear of Hell,<note place="margin">
@@ -1792,7 +1792,7 @@
                <l>were but Hypocriſy.</l>
             </lg>
             <lg n="92">
-               <pb n="24" facs="tcp:001030_0035_0FAEEEE52DB923A0"/>
+               <pb n="24" facs="unknown:001030_0035_0FAEEEE52DB923A0"/>
                <head>(92)</head>
                <l>
                   <note place="margin">Civil ho<g ref="char:EOLhyphen"/>nest mens pleas. Luk <hi>18.11.</hi>
@@ -1842,7 +1842,7 @@
                <l>themſelves to have miſ-done.</l>
             </lg>
             <lg n="96">
-               <pb n="25" facs="tcp:001030_0036_0FAEEEE970A523E8"/>
+               <pb n="25" facs="unknown:001030_0036_0FAEEEE970A523E8"/>
                <head>(96)</head>
                <l>Then anſwered unto their dread,<note place="margin">Are taken off &amp; ren<g ref="char:EOLhyphen"/>dred in<g ref="char:EOLhyphen"/>va<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -1898,7 +1898,7 @@
                <l>their words and deeds doth try.</l>
             </lg>
             <lg n="100">
-               <pb n="26" facs="tcp:001030_0037_0FAEEEEA8CF11470"/>
+               <pb n="26" facs="unknown:001030_0037_0FAEEEEA8CF11470"/>
                <head>(100)</head>
                <l>
                   <note place="margin">
@@ -1953,7 +1953,7 @@
                <l>you ſay, All did amiſs.</l>
             </lg>
             <lg n="104">
-               <pb n="27" facs="tcp:001030_0038_0FAEEEEAD98BBBE0"/>
+               <pb n="27" facs="unknown:001030_0038_0FAEEEEAD98BBBE0"/>
                <head>(104)</head>
                <l>Again you thought and mainly ſought</l>
                <l>a name with men t' acquire.<note place="margin">
@@ -2005,7 +2005,7 @@
                <l>left us no libertie.</l>
             </lg>
             <lg n="108">
-               <pb n="28" facs="tcp:001030_0039_0FAEEEEB95704FD0"/>
+               <pb n="28" facs="unknown:001030_0039_0FAEEEEB95704FD0"/>
                <head>(108)</head>
                <l>Short was our time, for in his prime</l>
                <l>our youthful flow'r was cropt:</l>
@@ -2056,7 +2056,7 @@
                <l>and turn to him in truth?</l>
             </lg>
             <lg n="112">
-               <pb n="29" facs="tcp:001030_0040_0FAEEEECF93F51B8"/>
+               <pb n="29" facs="unknown:001030_0040_0FAEEEECF93F51B8"/>
                <head>(112)</head>
                <l>In younger years, beyond your fears,<note place="margin">
                      <hi>Amos</hi> 6.3. <hi>to</hi> 6.</note>
@@ -2114,7 +2114,7 @@
                <l>we might take liberty.</l>
             </lg>
             <lg n="116">
-               <pb n="30" facs="tcp:001030_0041_0FAEEEED1566AB10"/>
+               <pb n="30" facs="unknown:001030_0041_0FAEEEED1566AB10"/>
                <head>(116)</head>
                <l>
                   <note place="margin">Who are told that Examples are no Rules. Pſal. <hi>19.8.11.</hi> Ex<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -2175,7 +2175,7 @@
                <l>that were regenerate.</l>
             </lg>
             <lg n="120">
-               <pb n="31" facs="tcp:001030_0042_0FAEEEEE0F5431C0"/>
+               <pb n="31" facs="unknown:001030_0042_0FAEEEEE0F5431C0"/>
                <head>(120)</head>
                <l>But to expreſs their holineſs,</l>
                <l>or imitate their grace,<note place="margin">Pſal. 32.5. 2 Chro. 32.26, <hi>Mat</hi> 26.<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -2246,7 +2246,7 @@
                <l>and done the good you knew.</l>
             </lg>
             <lg n="124">
-               <pb n="32" facs="tcp:001030_0043_0FAEEEEE96A8F6E0"/>
+               <pb n="32" facs="unknown:001030_0043_0FAEEEEE96A8F6E0"/>
                <head>(124)</head>
                <l>
                   <note place="margin">Others the fear of Perſecuti<g ref="char:EOLhyphen"/>on. Acts <hi>28.22.</hi>
@@ -2298,7 +2298,7 @@
                </l>
             </lg>
             <lg n="128">
-               <pb n="33" facs="tcp:001030_0044_0FAEEEF27223D4A8"/>
+               <pb n="33" facs="unknown:001030_0044_0FAEEEF27223D4A8"/>
                <head>(128)</head>
                <l>To pleaſe your kin, mens love to win,<note place="margin">
                      <hi>Luk.</hi> 9 23, 24, 25. <hi>Chap.</hi> 16.25.</note>
@@ -2359,7 +2359,7 @@
                <l>with Everlaſting ſmart?</l>
             </lg>
             <lg n="132">
-               <pb n="34" facs="tcp:001030_0045_0FAEEEF370C5A438"/>
+               <pb n="34" facs="unknown:001030_0045_0FAEEEF370C5A438"/>
                <head>(132)</head>
                <l>Can God delight in ſuch a ſight</l>
                <l>as ſinners miſery?</l>
@@ -2409,7 +2409,7 @@
                <l>like wonders would have wrought.</l>
             </lg>
             <lg n="136">
-               <pb n="35" facs="tcp:001030_0046_0FAEEEF3DDA61A68"/>
+               <pb n="35" facs="unknown:001030_0046_0FAEEEF3DDA61A68"/>
                <head>(136)<note place="margin">Did alſo long wait upon ſuch as abuſed it. Rom. <hi>2.4<g ref="char:punc">▪</g>
                      </hi> Hoſ <hi>11 4.</hi>
                   </note>
@@ -2466,7 +2466,7 @@
                <l>miſchief upon the wronger.</l>
             </lg>
             <lg n="140">
-               <pb n="36" facs="tcp:001030_0047_0FAEEEF49E3CAD48"/>
+               <pb n="36" facs="unknown:001030_0047_0FAEEEF49E3CAD48"/>
                <head>(140)</head>
                <l>
                   <note place="margin">
@@ -2539,7 +2539,7 @@
                <l>this ſhall him glory win.</l>
             </lg>
             <lg n="144">
-               <pb n="37" facs="tcp:001030_0048_0FAEEEF604E0AC28"/>
+               <pb n="37" facs="unknown:001030_0048_0FAEEEF604E0AC28"/>
                <head>(144)<note place="margin">Some pre<g ref="char:EOLhyphen"/>tend they were ſhut out from Heaven by Gods Decree. Rom. <hi>9.18, 19.</hi>
                   </note>
                </head>
@@ -2592,7 +2592,7 @@
                <l>what God hath link'd together.</l>
             </lg>
             <lg n="148">
-               <pb n="38" facs="tcp:001030_0049_0FAEEEF61EC695F8"/>
+               <pb n="38" facs="unknown:001030_0049_0FAEEEF61EC695F8"/>
                <head>(148)</head>
                <l>
                   <note place="margin">
@@ -2648,7 +2648,7 @@
                <l>againſt you Heav'ns door.</l>
             </lg>
             <lg n="152">
-               <pb n="39" facs="tcp:001030_0050_0FAEEEF6EF026C80"/>
+               <pb n="39" facs="unknown:001030_0050_0FAEEEF6EF026C80"/>
                <head>(152)</head>
                <l>'Twas no vain task to knock, to ask,<note place="margin">
                      <hi>Mat.</hi> 7.7, 8.</note>
@@ -2705,7 +2705,7 @@
                <l>and periſht wilfully.</l>
             </lg>
             <lg n="156">
-               <pb n="40" facs="tcp:001030_0051_0FAEEEF7A8CC6988"/>
+               <pb n="40" facs="unknown:001030_0051_0FAEEEF7A8CC6988"/>
                <head>(156)</head>
                <l>Theſe words appall and daunt them all;</l>
                <l>diſm<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -2760,7 +2760,7 @@
                </l>
             </lg>
             <lg n="160">
-               <pb n="41" facs="tcp:001030_0052_0FAEEEF859F71C28"/>
+               <pb n="41" facs="unknown:001030_0052_0FAEEEF859F71C28"/>
                <head>(160)</head>
                <l>We did not know a Chriſt till now,</l>
                <l>nor how faln man be ſaved,</l>
@@ -2812,7 +2812,7 @@
                <l>gives you no ground of ſtrife.</l>
             </lg>
             <lg n="164">
-               <pb n="42" facs="tcp:001030_0053_0FAEEEF91101F930"/>
+               <pb n="42" facs="unknown:001030_0053_0FAEEEF91101F930"/>
                <head>(164)</head>
                <l>'Tis vain to tell, you wot full well</l>
                <l>if you in time had known</l>
@@ -2866,7 +2866,7 @@
                <l>and utterly undone us.</l>
             </lg>
             <lg n="168">
-               <pb n="43" facs="tcp:001030_0054_0FAEEEFD34662388"/>
+               <pb n="43" facs="unknown:001030_0054_0FAEEEFD34662388"/>
                <head>(168)</head>
                <l>Not we, but he ate of the Tree,</l>
                <l>whoſe fruit was interdicted:</l>
@@ -2919,7 +2919,7 @@
                <l>both his and yours it was.</l>
             </lg>
             <lg n="172">
-               <pb n="44" facs="tcp:001030_0055_0FAEEEFECEDF1160"/>
+               <pb n="44" facs="unknown:001030_0055_0FAEEEFECEDF1160"/>
                <head>(172)</head>
                <l>He was defign'd of all Mankind</l>
                <l>to be a publick Head,</l>
@@ -2973,7 +2973,7 @@
                <l>had thus your ſelves behaved.</l>
             </lg>
             <lg n="176">
-               <pb n="45" facs="tcp:001030_0056_0FAEEF00486108E8"/>
+               <pb n="45" facs="unknown:001030_0056_0FAEEF00486108E8"/>
                <head>(176)</head>
                <l>You think if we had been as he,<note place="margin">
                      <hi>Mat.</hi> 23.30, 31.</note>
@@ -3026,7 +3026,7 @@
                <l>&amp; thus my Grace confine?</l>
             </lg>
             <lg n="180">
-               <pb n="46" facs="tcp:001030_0057_0FAEEF009AAC0890"/>
+               <pb n="46" facs="unknown:001030_0057_0FAEEF009AAC0890"/>
                <head>(180)</head>
                <l>
                   <note place="margin">Pſa. <hi>58 3</hi> Ro. <hi>6.21</hi> Gal <hi>3.10.</hi> Rom. <hi>8 29.30.</hi> &amp; <hi>11.7.</hi> Rev<g ref="char:punc">▪</g> 
@@ -3080,7 +3080,7 @@
                <l>the Sun, or not been born.</l>
             </lg>
             <lg n="184">
-               <pb n="47" facs="tcp:001030_0058_0FAEEF01640BB8E0"/>
+               <pb n="47" facs="unknown:001030_0058_0FAEEF01640BB8E0"/>
                <head>(184)</head>
                <l>Yea, now it would be good they could</l>
                <l>themſelves annihilate,</l>
@@ -3130,7 +3130,7 @@
                <l>to any of this Crew.</l>
             </lg>
             <lg n="188">
-               <pb n="48" facs="tcp:001030_0059_0FAEEF021AB0C380"/>
+               <pb n="48" facs="unknown:001030_0059_0FAEEF021AB0C380"/>
                <head>(188)</head>
                <l>
                   <note place="margin">
@@ -3199,7 +3199,7 @@
                <l>to fire the Earths Foundation:</l>
             </lg>
             <lg n="192">
-               <pb n="49" facs="tcp:001030_0060_0FAEEF030E522B10"/>
+               <pb n="49" facs="unknown:001030_0060_0FAEEF030E522B10"/>
                <head>(192)</head>
                <l>And by and by the flaming Sky<note place="margin">2 <hi>Pet.</hi> 3.10.</note>
                </l>
@@ -3253,7 +3253,7 @@
                <l>to Chriſt than unto you,</l>
             </lg>
             <lg n="196">
-               <pb n="50" facs="tcp:001030_0061_0FAEEF04DB2F1758"/>
+               <pb n="50" facs="unknown:001030_0061_0FAEEF04DB2F1758"/>
                <head>(196)</head>
                <l>Where tender love mens hearts did move</l>
                <l>unto a ſympathy,</l>
@@ -3303,7 +3303,7 @@
                <l>burning eternally.</l>
             </lg>
             <lg n="200">
-               <pb n="51" facs="tcp:001030_0062_0FAEEF057A61A208"/>
+               <pb n="51" facs="unknown:001030_0062_0FAEEF057A61A208"/>
                <head>(200)</head>
                <l>Then God moſt high ſhould injury,</l>
                <l>by ſparing him ſuſtain;<note place="margin">
@@ -3377,7 +3377,7 @@
                </l>
             </lg>
             <lg n="204">
-               <pb n="52" facs="tcp:001030_0063_0FAEEF08DC6A0470"/>
+               <pb n="52" facs="unknown:001030_0063_0FAEEF08DC6A0470"/>
                <head>(204)</head>
                <l>Oh, <hi>fearful Doom!</hi> now there's no room</l>
                <l>for hope or help at all:</l>
@@ -3431,7 +3431,7 @@
                <l>attend this wicked Rout.</l>
             </lg>
             <lg n="208">
-               <pb n="53" facs="tcp:001030_0064_0FAEEF09CFF651A8"/>
+               <pb n="53" facs="unknown:001030_0064_0FAEEF09CFF651A8"/>
                <head>(208)</head>
                <l>Whom having brought, as they are taught,<note place="margin">
                      <hi>HELL. Mat.</hi> 25.30. <hi>Mark.</hi> 9.43. <hi>Iſa</hi> 30.33 <hi>Rev.</hi> 21.8.</note>
@@ -3485,7 +3485,7 @@
                <l>that he may plague them ſo.</l>
             </lg>
             <lg n="212">
-               <pb n="54" facs="tcp:001030_0065_0FAEEF0A90819DD0"/>
+               <pb n="54" facs="unknown:001030_0065_0FAEEF0A90819DD0"/>
                <head>(212)</head>
                <l>
                   <note place="margin">The unſuf<g ref="char:EOLhyphen"/>ferable torments of the damned. Luk. <hi>16.24.</hi> Jude <hi>7.</hi>
@@ -3541,7 +3541,7 @@
                <l>in plaguing theſe mens ſins.</l>
             </lg>
             <lg n="216">
-               <pb n="55" facs="tcp:001030_0066_0FAEEF0B1A853328"/>
+               <pb n="55" facs="unknown:001030_0066_0FAEEF0B1A853328"/>
                <head>(216)</head>
                <l>The pain of loſs their Souls doth toſs,<note place="margin">
                      <hi>Luk</hi> 16.23, 25. <hi>Luk</hi> 13.28.</note>
@@ -3594,7 +3594,7 @@
                <l>that juſt are all his ways.</l>
             </lg>
             <lg n="220">
-               <pb n="56" facs="tcp:001030_0067_0FAEEF0C3663C848"/>
+               <pb n="56" facs="unknown:001030_0067_0FAEEF0C3663C848"/>
                <head>
                   <note place="margin">They aſ<g ref="char:EOLhyphen"/>cend with Chriſt into Heaven trium<g ref="char:EOLhyphen"/>phing. Mat. <hi>25.46. 1</hi> Joh. <hi>3.2. 1</hi> Cor. <hi>13.12.</hi> Their E<g ref="char:EOLhyphen"/>ternal happineſs and in<g ref="char:EOLhyphen"/>compara<g ref="char:EOLhyphen"/>ble Glory there.</note>(220)</head>
                <l>Thus with great joy and melody</l>
@@ -3646,7 +3646,7 @@
                <l>to forfeit by abuſe.</l>
             </lg>
             <lg n="224">
-               <pb n="57" facs="tcp:001030_0068_0FAEEF0DA34B5EB0"/>
+               <pb n="57" facs="unknown:001030_0068_0FAEEF0DA34B5EB0"/>
                <head>(224)</head>
                <l>For there the Saints are perfect Saints,<note place="margin">
                      <hi>Heb.</hi> 12.23.</note>
@@ -3689,7 +3689,7 @@
                <l>than ſixteen hundred year.</l>
             </lg>
             <lg n="3">
-               <pb n="58" facs="tcp:001030_0069_0FAEEF0E1458FC00"/>
+               <pb n="58" facs="unknown:001030_0069_0FAEEF0E1458FC00"/>
                <head>(3)</head>
                <l>But what's the time from the Worlds prime</l>
                <l>unto this preſent day,</l>
@@ -3736,7 +3736,7 @@
                <l>of Herbs and Plants do ſtand.</l>
             </lg>
             <lg n="7">
-               <pb n="59" facs="tcp:001030_0070_0FAEEF0ED62E48A0"/>
+               <pb n="59" facs="unknown:001030_0070_0FAEEF0ED62E48A0"/>
                <head>(7)</head>
                <l>Number the Sand upon the Strand,</l>
                <l>and <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -3788,7 +3788,7 @@
                <l>do full perfection give.</l>
             </lg>
             <lg n="11">
-               <pb n="60" facs="tcp:001030_0071_0FAEEF126916B128"/>
+               <pb n="60" facs="unknown:001030_0071_0FAEEF126916B128"/>
                <head>(11)</head>
                <l>
                   <note place="margin">
@@ -3840,7 +3840,7 @@
                <l>of Wo and Miſery.</l>
             </lg>
             <lg n="15">
-               <pb n="61" facs="tcp:001030_0072_0FAEEF13F2449B48"/>
+               <pb n="61" facs="unknown:001030_0072_0FAEEF13F2449B48"/>
                <head>(15)</head>
                <l>When Heav'n is Hell, when Ill is Well,</l>
                <l>when Vertue turns to Vice,</l>
@@ -3895,7 +3895,7 @@
                <l>and Heirs of Heaven hight.</l>
             </lg>
             <lg n="19">
-               <pb n="62" facs="tcp:001030_0073_0FAEEF1563CD0DE8"/>
+               <pb n="62" facs="unknown:001030_0073_0FAEEF1563CD0DE8"/>
                <head>(19)</head>
                <l>Then, Ah poor men! what, not till then?</l>
                <l>No, not an hour before:</l>
@@ -3951,7 +3951,7 @@
             </lg>
          </div>
          <div type="postscript">
-            <pb n="63" facs="tcp:001030_0074_0FAEEF15D7A519C0"/>
+            <pb n="63" facs="unknown:001030_0074_0FAEEF15D7A519C0"/>
             <head>A Poſtſcript UNTO THE Reader.</head>
             <l>AND now good Reader, I return again</l>
             <l>To talk with thee, who haſt been at the pain</l>
@@ -3970,7 +3970,7 @@
             <l>And not to reſt, until it underſtood</l>
             <l>It ſelf poſſeſſed of the chiefeſt good.</l>
             <l>
-               <pb n="64" facs="tcp:001030_0075_0FAEEF164EC51508"/>And ſince the Fall, thy Soul retaineth ſtill</l>
+               <pb n="64" facs="unknown:001030_0075_0FAEEF164EC51508"/>And ſince the Fall, thy Soul retaineth ſtill</l>
             <l>Thoſe Faculties of Reaſon and of Will,</l>
             <l>But Oh, how much deprav'd, and out of frame,</l>
             <l>As if they were ſome others, not the ſame.</l>
@@ -4005,7 +4005,7 @@
             <l>To execute due vengeance upon thoſe</l>
             <l>That knew him not, or that have been his foes:</l>
             <l>
-               <pb n="65" facs="tcp:001030_0076_0FAEEF1718E0ED50"/>What wilt thou anſwer unto his demands,</l>
+               <pb n="65" facs="unknown:001030_0076_0FAEEF1718E0ED50"/>What wilt thou anſwer unto his demands,</l>
             <l>When he requires a reaſon at thy hands</l>
             <l>Of all the things that thou haſt ſaid, or done,</l>
             <l>Or left undone, or ſet thine heart upon?</l>
@@ -4040,7 +4040,7 @@
             <l>The damning ſin of wilful unbelief,</l>
             <l>Of all Tranſgreſſors hadſt thou been the chief;</l>
             <l>
-               <pb n="66" facs="tcp:001030_0077_0FAEEF17E85FE448"/>Yet when time was, thou might'ſt have been ſet free</l>
+               <pb n="66" facs="unknown:001030_0077_0FAEEF17E85FE448"/>Yet when time was, thou might'ſt have been ſet free</l>
             <l>From Sin, and Wrath, and puniſhment by mee.</l>
             <l>But thou wouldſt not accept of Goſpel Grace,</l>
             <l>Nor on my terms Eternal Life embrace.</l>
@@ -4080,7 +4080,7 @@
                </gap> thou of force his Power to withſtand?</l>
             <l>Canſt thou by might eſcape out of his hand?</l>
             <l>
-               <pb n="67" facs="tcp:001030_0078_0FAEEF18A9802158"/>Doſt thou intend to run out of his ſight,</l>
+               <pb n="67" facs="unknown:001030_0078_0FAEEF18A9802158"/>Doſt thou intend to run out of his ſight,</l>
             <l>And ſave thy ſelf from puniſhment by flight?</l>
             <l>Or wilt thou be eternally accurſt,</l>
             <l>And bide his Vengeance, let him do his worſt?</l>
@@ -4127,7 +4127,7 @@
                   <desc>〈◊〉</desc>
                </gap> ſuch like tears could from thine eyes be ſhed?</l>
             <l>
-               <pb n="68" facs="tcp:001030_0079_0FAEEF19591AB260"/>To gain the world what will it profit <gap reason="illegible" resp="#PDCC" extent="1 word">
+               <pb n="68" facs="unknown:001030_0079_0FAEEF19591AB260"/>To gain the world what will it profit <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap>,</l>
             <l>And looſe thy Soul and ſelf eternallie?</l>
@@ -4168,7 +4168,7 @@
             <l>What horrour will your Conſciences ſurpriſe,</l>
             <l>When you ſhall hear the fruitleſs doleful cries</l>
             <l>
-               <pb n="69" facs="tcp:001030_0080_0FAEEF1FAD0D4B70"/>Of ſuch as are compelled to depart</l>
+               <pb n="69" facs="unknown:001030_0080_0FAEEF1FAD0D4B70"/>Of ſuch as are compelled to depart</l>
             <l>Unto the place of everlaſting ſmart?</l>
             <l>What, when you ſee the ſparks fly out of Hell,</l>
             <l>And view the Dungeon where you are to dwell,</l>
@@ -4211,7 +4211,7 @@
                </gap>re,</l>
             <l>Preparing unextinguiſhable fire</l>
             <l>
-               <pb n="70" facs="tcp:001030_0081_0FAEEF20A676A630"/>For all that live and die impenitent.</l>
+               <pb n="70" facs="unknown:001030_0081_0FAEEF20A676A630"/>For all that live and die impenitent.</l>
             <l>Awake, awake, O Sinner, and repent,</l>
             <l>And quarrel not, becauſe I thus alarm</l>
             <l>Thy Soul, to ſave it from eternal harm.</l>
@@ -4253,7 +4253,7 @@
             <l>His own Son <hi>Amnon</hi> uſing crafty wiles,</l>
             <l>His Daughter <hi>Thamar</hi> wickedly defiles;</l>
             <l>
-               <pb facs="tcp:001030_0082_0FAEEF20DCF82B10"/>His ſecond Son more beautiful than good,</l>
+               <pb facs="unknown:001030_0082_0FAEEF20DCF82B10"/>His ſecond Son more beautiful than good,</l>
             <l>His hands embreweth in his Brothers Blood:</l>
             <l>And by and by aſpiring to the Crown,</l>
             <l>He ſtrives to pull his gentle Father down<g ref="char:punc">▪</g>
@@ -4301,7 +4301,7 @@
                   <desc>•</desc>
                </gap> be too late,</l>
             <l>
-               <pb n="72" facs="tcp:001030_0083_0FAEEF219A9EE930"/>As 'tis thy ſin, ſo is it Satans wile,</l>
+               <pb n="72" facs="unknown:001030_0083_0FAEEF219A9EE930"/>As 'tis thy ſin, ſo is it Satans wile,</l>
             <l>Whereby he doth great multitudes beguile<g ref="char:punc">▪</g>
             </l>
             <l>How many thouſands hath this ſtrong deluſion</l>
@@ -4338,7 +4338,7 @@
             <l>Tell him, that he may make his glorious Name</l>
             <l>More wonderful by covering thy ſhame.</l>
             <l>
-               <pb n="73" facs="tcp:001030_0084_0FAEEF226839B6D8"/>That Mercy may be greatly magnify'd,</l>
+               <pb n="73" facs="unknown:001030_0084_0FAEEF226839B6D8"/>That Mercy may be greatly magnify'd,</l>
             <l>And Juſtice alſo fully ſatisfy'd,</l>
             <l>If he ſhall pleaſe to own thee in his Son,</l>
             <l>Who hath paid dear for Men's Redemption.</l>
@@ -4374,7 +4374,7 @@
             <l>Or elſe to bring us duly to confeſs,</l>
             <l>And be convinc'd of our unworthineſs.</l>
             <l>
-               <pb n="74" facs="tcp:001030_0085_0FAEEF235B95E7A8"/>Oh, be not weary then, but perſevere</l>
+               <pb n="74" facs="unknown:001030_0085_0FAEEF235B95E7A8"/>Oh, be not weary then, but perſevere</l>
             <l>To beg his Grace till he thy ſuit ſhall hear:</l>
             <l>And leave him not, nor from his foot-ſtool go,</l>
             <l>Till over thee Compaſſions skirt he throw.</l>
@@ -4409,7 +4409,7 @@
             <l>Yea, he doth look upon thee with a mild</l>
             <l>And gracious aſpect as upon his child.</l>
             <l>
-               <pb n="75" facs="tcp:001030_0086_0FAEEF2552672A98"/>He is become thy Father and thy Friend,</l>
+               <pb n="75" facs="unknown:001030_0086_0FAEEF2552672A98"/>He is become thy Father and thy Friend,</l>
             <l>And will defend thee from the curſed Friend.</l>
             <l>Thou need'ſt nor fear the roaring Lyon's rage,</l>
             <l>Since God Almighty doth himſelf engage</l>
@@ -4440,7 +4440,7 @@
             <l>Yea come, and haſten our Redemption day.</l>
          </div>
          <div type="song">
-            <pb n="76" facs="tcp:001030_0087_0FAEEF256F57A100"/>
+            <pb n="76" facs="unknown:001030_0087_0FAEEF256F57A100"/>
             <head>A SONG OF EMPTINESS, <hi>To fill up the Empty Pages</hi> following. <hi>Vanity of Vanities.</hi>
             </head>
             <lg>
@@ -4468,7 +4468,7 @@
                <l>And multitudes of Souls doth ruinate?</l>
             </lg>
             <lg>
-               <pb n="77" facs="tcp:001030_0088_0FAEEF262D09DC88"/>
+               <pb n="77" facs="unknown:001030_0088_0FAEEF262D09DC88"/>
                <l>And what are <hi>Friends</hi> but mortal men, as we?</l>
                <l>Whom Death from us may quickly ſeparate;</l>
                <l>Or elſe their hearts may quite eſtranged be,</l>
@@ -4512,7 +4512,7 @@
                <l>Yet craves again without a new ſupply.</l>
             </lg>
             <lg>
-               <pb n="78" facs="tcp:001030_0089_0FAEEF2A502D3858"/>
+               <pb n="78" facs="unknown:001030_0089_0FAEEF2A502D3858"/>
                <l>All Earthly things, man's Cravings anſwer not,</l>
                <l>Whoſe little heart would all the World contain,</l>
                <l>(If all the World ſhould fall to one man's Lot)</l>
@@ -4555,7 +4555,7 @@
                <l>And fall unweeting into Envies Trap.</l>
             </lg>
             <lg>
-               <pb n="79" facs="tcp:001030_0090_0FAEEF2B2C94E338"/>
+               <pb n="79" facs="unknown:001030_0090_0FAEEF2B2C94E338"/>
                <l>The mean Mechanick finds his kindly reſt</l>
                <l>All void of fear Sleepeth the Country-Clown:</l>
                <l>When greateſt Princes often are diſtreſt,</l>
@@ -4621,7 +4621,7 @@
                <l>But all are gone, for Death will have no Nay.</l>
             </lg>
             <lg>
-               <pb n="80" facs="tcp:001030_0091_0FAEEF2B574CC860"/>
+               <pb n="80" facs="unknown:001030_0091_0FAEEF2B574CC860"/>
                <l>Such is this World with all her Pomp and Glory,</l>
                <l>Such are the men whom worldly eyes admire:</l>
                <l>Cut down by Time, and now become a Story,</l>
